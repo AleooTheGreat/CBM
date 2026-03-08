@@ -1,2 +1,4 @@
 things_data
 *.pkl
+*.env
+test.py
