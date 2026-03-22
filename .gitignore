@@ -2,3 +2,5 @@ things_data
 *.pkl
 *.env
 test.py
+vit*/
+*.txt
