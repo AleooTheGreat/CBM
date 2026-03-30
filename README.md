@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-## Dataset and models
+### Dataset and models
 
 Download from:
 https://drive.google.com/drive/folders/110Tp8WTBhc13Py2JWDdOkG0mj_YkUDG5?usp=sharing
 
-## Simple usage
+### Simple usage
 
 1. Download `things_data.zip`.
 2. Extract it in the project root, so you get this path:
@@ -21,6 +20,3 @@ https://drive.google.com/drive/folders/110Tp8WTBhc13Py2JWDdOkG0mj_YkUDG5?usp=sha
     - value = list of `.jpg` image paths
 
 4. Use the notebooks in this order: `ViT_raw_prediction.ipynb` → `ViT_feature_prediction.ipynb` → `ViT_joint_loss.ipynb`, and update each notebook to load the model checkpoint from the previous step.
-=======
-Get dataset: https://drive.google.com/drive/folders/110Tp8WTBhc13Py2JWDdOkG0mj_YkUDG5?usp=sharing
->>>>>>> origin/main
